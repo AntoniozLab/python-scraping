@@ -1,6 +1,6 @@
 # Web Scraping
 
-This repo contains scraping examples using scrapy, selenium an services like anticaptcha/2captcha to resolve authentications.
+This repo contains scraping examples using scrapy, selenium, and services like anti-captcha/2captcha to resolve authentications.
 
 ## Instructions
 
