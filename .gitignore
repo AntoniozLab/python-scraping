@@ -3,3 +3,5 @@
 password.txt
 token.txt
 dni.txt
+
+__pycache__
